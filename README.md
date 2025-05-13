@@ -1,4 +1,4 @@
 # WEB PROJECTS
 
-## Landing Page of Amazon
-## To-Do-List
+## 1. Landing Page of Amazon
+## 2. To-Do-List
